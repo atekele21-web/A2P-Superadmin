@@ -1,0 +1,6 @@
+{
+  "name": "SIMConnect SMS — Super Administrator Dashboard",
+  "description": "Super Administrator operational dashboard for SIMConnect SMS, an A2P messaging provider in Ethiopia, featuring partner onboarding, Sender ID registry, SMSC connectivity monitoring, message logs, and billing controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
